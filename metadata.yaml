@@ -1,0 +1,35 @@
+_repo: Jack-Haydon-s-Quest_19877
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Jellicoe, John
+    gutenberg_agent_id: '8935'
+    url: http://www.gutenberg.org/2009/agents/8935
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Finnemore, John
+    alias: Finnemore, J. (John)
+    birthdate: 1863
+    deathdate: 1915
+    gutenberg_agent_id: '2579'
+    url: http://www.gutenberg.org/2009/agents/2579
+    wikipedia: http://en.wikipedia.org/wiki/John_Finnemore_(author)
+description: ''
+gutenberg_issued: '2006-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19877'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Quests (Expeditions) -- Juvenile fiction'
+- !lcsh 'Young men -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Rangoon (Burma) -- Juvenile fiction'
+title: Jack Haydon's Quest
+url: http://www.gutenberg.org/ebooks/19877
